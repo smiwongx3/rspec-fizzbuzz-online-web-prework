@@ -3,5 +3,6 @@ def fizzbuzz(argument)
     return "Fizz"
   elsif argument=5
     return "Buzz"
-  elsif argument=
+  else argument=3, 5
+    return "Fizzbuzz"
 end
